@@ -1,0 +1,21 @@
+{
+  "name": "unlighted",
+  "displayName": "unlighted",
+  "description": "Simplest dark theme out there",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Unlighted",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Unlighted-color-theme.json"
+      }
+    ]
+  }
+}
