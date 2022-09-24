@@ -1,5 +1,13 @@
 {
   "name": "Unlighted",
+  "displayName": "Unlighted Dark Theme",
+  "Description": "Most beautiful VSC dark theme",
+  "version": "0.2.0-alpha",
+  "publisher": "essequiel",
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/essequie1/unlighted"
+  },
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
