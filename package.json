@@ -2,14 +2,18 @@
   "name": "unlighted",
   "displayName": "unlighted",
   "description": "Simplest dark theme out there",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "essequiel",
   "repository": {
     "type": "git",
     "url": "https://github.com/essequie1/unlighted"
   },
   "keywords": [
-    "theme", "dark theme", "night mode","dark mode", "dark"
+    "theme",
+    "dark theme",
+    "night mode",
+    "dark mode",
+    "dark"
   ],
   "engines": {
     "vscode": "^1.71.0"
