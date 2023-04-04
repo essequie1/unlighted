@@ -1,9 +1,9 @@
 {
   "name": "unlighted",
+  "version": "0.5.0",
+  "publisher": "essequiel",
   "displayName": "unlighted",
   "description": "Simplest dark theme out there",
-  "version": "0.0.2",
-  "publisher": "essequiel",
   "repository": {
     "type": "git",
     "url": "https://github.com/essequie1/unlighted"
